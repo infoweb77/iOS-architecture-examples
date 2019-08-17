@@ -13,7 +13,7 @@
 <br />
 <br />
 
-## Architectures
+### Architectures
 This repository hosts each sample app in separate directory.
 
 <br />
@@ -33,5 +33,6 @@ The purpose of having examples with single page applications is highlighting con
 | [viper](https://github.com/infoweb77/iOS-architecture-examples/tree/master/VIPER) | Uses VIPER architecture (README in progress) |
 
 <br />
-## Licence
+
+### Licence
 MIT.
