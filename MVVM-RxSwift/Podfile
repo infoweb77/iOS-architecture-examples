@@ -1,0 +1,13 @@
+use_frameworks!
+inhibit_all_warnings!
+
+target 'MVVM-RxSwift' do
+
+	pod 'RxSwift', '~> 4.5'
+  	pod 'RxCocoa', '~> 4.5'
+  	
+  	pod 'SnapKit', '~> 5.0'
+  	pod 'Moya/RxSwift', '~> 13.0'
+  	pod 'Kingfisher', '~> 5.7.0'
+  	
+end
