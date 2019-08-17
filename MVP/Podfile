@@ -1,0 +1,10 @@
+use_frameworks!
+inhibit_all_warnings!
+
+target 'MVP' do
+  
+  	pod 'SnapKit', '~> 5.0'
+  	pod 'Moya', '~> 13.0'
+  	pod 'Kingfisher', '~> 5.7.0'
+
+end
