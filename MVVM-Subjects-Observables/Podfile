@@ -1,0 +1,15 @@
+platform :ios, '11.0'
+
+use_frameworks!
+inhibit_all_warnings!
+
+target 'MVVM-Subjects-Observables' do
+
+  pod 'RxSwift', '~> 4.5'
+  pod 'RxCocoa', '~> 4.5'
+
+  pod 'SnapKit', '~> 4.2'
+  pod 'Moya/RxSwift', '~> 12.0'
+  pod 'Kingfisher', '~> 5.7.0'
+
+end
