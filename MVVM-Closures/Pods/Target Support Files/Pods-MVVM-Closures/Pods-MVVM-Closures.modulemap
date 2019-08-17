@@ -1,0 +1,6 @@
+framework module Pods_MVVM_Closures {
+  umbrella header "Pods-MVVM-Closures-umbrella.h"
+
+  export *
+  module * { export * }
+}
