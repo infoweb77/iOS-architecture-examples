@@ -16,6 +16,8 @@
 ## Architectures
 This repository hosts each sample app in separate directory.
 
+<br />
+
 ### Single screen app examples
 The purpose of having examples with single page applications is highlighting connection between view code and business logic code.
 
@@ -30,5 +32,6 @@ The purpose of having examples with single page applications is highlighting con
 | [rxfeedback-mvc](https://github.com/infoweb77/iOS-architecture-examples/tree/master/RxFeedback-MVC) | Uses RxFeedback in MVC architecture  (README in progress)    |
 | [viper](https://github.com/infoweb77/iOS-architecture-examples/tree/master/VIPER) | Uses VIPER architecture (README in progress) |
 
+<br />
 ## Licence
 MIT.
