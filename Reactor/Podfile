@@ -1,0 +1,16 @@
+platform :ios, '11.0'
+
+use_frameworks!
+inhibit_all_warnings!
+
+target 'Reactor' do
+
+	pod 'ReactorKit', '~> 1.2'
+  	pod 'RxSwift', '~> 4.5'
+  	pod 'RxCocoa', '~> 4.5'
+
+  	pod 'SnapKit', '~> 5.0'
+  	pod 'Moya/RxSwift', '~> 13.0'
+  	pod 'Nuke', '~> 7.6.2'
+
+end

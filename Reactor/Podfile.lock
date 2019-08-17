@@ -1,0 +1,49 @@
+PODS:
+  - Alamofire (4.8.2)
+  - Moya/Core (13.0.1):
+    - Alamofire (~> 4.1)
+    - Result (~> 4.1)
+  - Moya/RxSwift (13.0.1):
+    - Moya/Core
+    - RxSwift (~> 4.0)
+  - Nuke (7.6.3)
+  - ReactorKit (1.2.1):
+    - RxSwift (>= 4.0.0)
+  - Result (4.1.0)
+  - RxCocoa (4.5.0):
+    - RxSwift (>= 4.4.2, ~> 4.4)
+  - RxSwift (4.5.0)
+  - SnapKit (5.0.1)
+
+DEPENDENCIES:
+  - Moya/RxSwift (~> 13.0)
+  - Nuke (~> 7.6.2)
+  - ReactorKit (~> 1.2)
+  - RxCocoa (~> 4.5)
+  - RxSwift (~> 4.5)
+  - SnapKit (~> 5.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Moya
+    - Nuke
+    - ReactorKit
+    - Result
+    - RxCocoa
+    - RxSwift
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  Moya: f4a4b80ff2f8a4ffc208dfb31cd91636622fee6e
+  Nuke: 44130e95e09463f8773ae4b96b90de1eba6b3350
+  ReactorKit: 8be57f0527ad1ac2963cd5c338274a46a01e57a3
+  Result: bd966fac789cc6c1563440b348ab2598cc24d5c7
+  RxCocoa: cbf70265dc65a981d4ac982e513c10cf23df24a0
+  RxSwift: f172070dfd1a93d70a9ab97a5a01166206e1c575
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+
+PODFILE CHECKSUM: 8a0f0a8399e72184cccbc3e780327ab74cac8933
+
+COCOAPODS: 1.5.3
