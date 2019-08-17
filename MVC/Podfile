@@ -1,0 +1,12 @@
+platform :ios, '11.0'
+
+use_frameworks!
+inhibit_all_warnings!
+
+target 'MVC' do
+  
+  	pod 'SnapKit', '~> 4.2'
+  	pod 'Moya', '~> 12.0'
+  	pod 'Kingfisher', '~> 5.4.0'
+
+end
