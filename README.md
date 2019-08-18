@@ -9,9 +9,7 @@
 
 <br />
 
-<div align="center">
-<!-- Last commit -->
-<img src="https://img.shields.io/github/last-commit/infoweb77/ios-architecture-examples.svg" alt="last commit"/>
+<div align="left">
 <!-- Swift version -->
 <img src="https://img.shields.io/badge/swift%20version-4.2-brightgreen.svg" alt="swift version">
 <!-- Platform -->
