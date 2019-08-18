@@ -9,7 +9,7 @@
 
 <br />
 
-<div align="left">
+<div align="center">
 <!-- Swift version -->
 <img src="https://img.shields.io/badge/swift%20version-4.2-brightgreen.svg" alt="swift version">
 <!-- Platform -->
@@ -18,7 +18,6 @@
 <img src="https://img.shields.io/badge/licence%20-MIT%20-blue.svg" alt="license" />
 </div>
 
-<br />
 <br />
 
 ### Architectures
